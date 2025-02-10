@@ -1,0 +1,29 @@
+/* .boxOne {
+    background-color: darkcyan;
+}
+
+.boxTwo {
+    background-color: #639478;
+}
+
+.boxThree {
+    background-color: rgb(143, 223, 87);
+}
+
+.boxFour {
+    background-color: hsl(76, 28%, 40%);
+} */
+
+
+.boxOne:nth-child(1) {
+    background-color: darkcyan;
+}
+
+.boxOne:nth-child(2) {
+    background-color: #639478;
+}
+
+.boxOne:nth-child(3) {
+    background-color: rgb(143, 223, 87);
+
+}

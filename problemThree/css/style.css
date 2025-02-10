@@ -1,0 +1,9 @@
+.clickButton {
+    background: radial-gradient(cyan, purple);
+    padding: 20px;
+
+    &:hover {
+        background: radial-gradient(rgb(43, 255, 0), rgb(26, 0, 128));
+    }
+}
+
